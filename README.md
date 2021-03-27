@@ -1,6 +1,6 @@
 ![Exemple](https://i.imgur.com/eSkCFOb.png)
 
-#Configuration
+# Configuration
 ```
 ├─── config.js
 ```
@@ -10,11 +10,11 @@
     * token : ur discord bot token
     * guild : the guild on which it will send the messages 
 
-#Installation
+# Installation
 ```
 npm i
 node index.js
 ```
 
-#Dependencies
+# Dependencies
 > Module "insta.js" from [Androz2091](https://github.com/Androz2091/insta.js)
