@@ -1,0 +1,11 @@
+{
+  "name": "instagram_saver",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@androz2091/insta.js": "^1.6.1",
+    "chalk": "^4.1.0"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
