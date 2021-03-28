@@ -24,7 +24,7 @@ client.on('connected', () => {
 const send = function(channel, message) {
     const embed = new djs.MessageEmbed()
         .setAuthor(`💬 New message from @${message.author.username}`)
-        .setFooter(`InstagramSaver by PasTrik#0657`);
+        .setFooter(`InstagramReader by PasTrik#0657`);
 
     if(message.content){
         embed.setDescription(message.content)
