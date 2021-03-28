@@ -1,4 +1,4 @@
-![Exemple](https://i.imgur.com/eSkCFOb.png)
+![Exemple](https://i.imgur.com/mKAPOiu.png)
 
 # Configuration
 ```
